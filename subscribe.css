@@ -19,7 +19,7 @@ html,body{
   background: #FC4782;
 }
 .wrapper{
-  color: #000000;
+  color: rgb(14, 189, 216);
   max-width: 900px;
   text-align: center;
   padding: 0 50px;
@@ -136,4 +136,3 @@ form .email-field button:hover{
     width: 30px;
   }
 }
-.....
